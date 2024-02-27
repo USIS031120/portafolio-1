@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.72dd5628.css",
+    "main.js": "/static/js/main.731bc9b3.js",
+    "static/js/592.1e03169e.chunk.js": "/static/js/592.1e03169e.chunk.js",
+    "static/media/agencia.png": "/static/media/agencia.b3af590247f387eab34d.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.72dd5628.css.map": "/static/css/main.72dd5628.css.map",
+    "main.731bc9b3.js.map": "/static/js/main.731bc9b3.js.map",
+    "592.1e03169e.chunk.js.map": "/static/js/592.1e03169e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72dd5628.css",
+    "static/js/main.731bc9b3.js"
+  ]
+}
